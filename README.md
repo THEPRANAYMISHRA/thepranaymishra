@@ -1,4 +1,3 @@
-<div align="center">
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQEE9_u2AETxSg/profile-displaybackgroundimage-shrink_350_1400/0/1619798003135?e=1687392000&v=beta&t=2aIGy9EAjIbZLIxH1T5XFJcDTA17MqOUbd8-4Cyi_n0)](https://thepranaymishra.io)
 <h1 align="center">Hi 👋, I'm Pranay Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -29,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepranaymishra&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="thepranaymishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaymishra&theme=chartreuse-dark&hide_border=true" alt="thepranaymishra" /></p>
-</div>
