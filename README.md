@@ -8,11 +8,13 @@
 
 - 🌱 I’m currently learning **Pug Html**
 
-- 👨‍💻 Visit my portfolio here [https://thepranaymishra.github.io/](https://thepranaymishra.github.io/)
+- 👨‍💻 Visit my portfolio here **https://THEPRANAYMISHRA.github.io/**
 
 - 💬 Ask me about **Nodejs,Expressjs,MongoDB**
 
-- 📫 How to reach me **pmcanvas4501@gmail.com**
+- 📫 How to reach me
+- **pmcanvas4501@gmail.com**
+- **https://linkedin.com/in/pranay-mishra-31b5a0240**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1mowLfSaUiXXi_zfb3rmrNQ2KiS7y0QK7?usp=sharing](https://drive.google.com/drive/folders/1mowLfSaUiXXi_zfb3rmrNQ2KiS7y0QK7?usp=sharing)
 
