@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br>Hello there! 👋 I'm Pranay,<br> a passionate full-stack web developer hailing from India. I recently completed an intensive 10-month full-stack web development course at Masai School, where I delved deep into technologies like HTML, CSS, JavaScript, Node.js, MongoDB, Express.js, React, MySQL, and Data Structures. <br><br>Throughout the course, I honed my skills by building a variety of HTML/React-based websites and web applications. My journey in web development has been an exhilarating ride, and I'm eager to continue exploring new technologies and creating innovative solutions. <br><br>Feel free to explore my repositories and connect with me. Let's build amazing things together! 🚀<br>
+<br>Hello there! 👋 I'm Pranay,
+
+A passionate Backend Developer based in India with 2 years of professional experience in building robust and scalable server-side applications.
+
+My expertise lies in crafting efficient backend architectures and managing complex data systems. Throughout my journey, I have honed my skills in technologies such as Node.js, MongoDB, Express.js, MySQL, and Data Structures. I am deeply committed to writing clean, maintainable code and optimizing system performance to create seamless digital experiences.
+
+The world of backend engineering is an exhilarating ride, and I am constantly exploring emerging technologies and innovative architectural patterns to solve real-world problems.
+
+Feel free to explore my repositories and connect with me. Let's build amazing things together! <br>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/pranay-mishra-31b5a0240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"></a>
